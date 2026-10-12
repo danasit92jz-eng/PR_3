@@ -34,15 +34,15 @@ The program displays all unique subjects in alphabetical order.
 - for loop
 - while loop
 - match-case statement
-- if-else statements
-## How to Run
+- if-else statements## How to Run
 ### Step 1: Install Python
-Install Python 3.10 or any else for python.
+Install Python 3 on your computer.
 ### Step 2: Download or Clone the Repository
 Download this project from GitHub or clone the repository.
-
 ### Step 3: Open the Project Folder
 Open the project folder in IDLE editor.
+### Step 4: Run the Program
+Open the terminal and execute:pr_3_final.py
 
 ### Step 4: Run the Program
 Open the terminal and execute:
