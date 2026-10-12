@@ -44,9 +44,3 @@ Open the project folder in IDLE editor.
 ### Step 4: Run the Program
 Open the terminal and execute:pr_3_final.py
 
-### Step 4: Run the Program
-Open the terminal and execute:
-
-```bash
-python student_data_organizer.py
-```
