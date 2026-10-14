@@ -44,16 +44,11 @@ Open the project folder in IDLE editor.
 Open the terminal and execute:pr_3_final.py
 
 # Output:
-Add and Display:
-/n
+## Add and Display:
+## Update and Subject Offerd:
+## Delete and stop:
 <img width="985" height="820" alt="image" src="https://github.com/user-attachments/assets/b1c35007-1580-47c0-8cfa-b8d50127ea58" />
-
-Update and Subject Offerd:
-/n
 <img width="635" height="741" alt="image" src="https://github.com/user-attachments/assets/3ea9692a-265f-4f29-b2c8-17e9e5512c80" />
-
-Delete and stop:
-/n
 <img width="683" height="527" alt="image" src="https://github.com/user-attachments/assets/b3763fb7-b70e-4d89-9507-9e3d19c525da" />
 
 
