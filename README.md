@@ -1,4 +1,4 @@
-# Student Data Organizer
+<img width="985" height="820" alt="image" src="https://github.com/user-attachments/assets/d5341016-daf5-4df2-afe4-8a7808da784e" /># Student Data Organizer
 ## Project Name
 Student Data Organizer – Student Record Management System
 ## Objective
@@ -43,4 +43,7 @@ Download this project from GitHub or clone the repository.
 Open the project folder in IDLE editor.
 ### Step 4: Run the Program
 Open the terminal and execute:pr_3_final.py
+
+# Output:
+<img width="985" height="820" alt="image" src="https://github.com/user-attachments/assets/b1c35007-1580-47c0-8cfa-b8d50127ea58" />
 
