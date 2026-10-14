@@ -1,4 +1,3 @@
-<img width="985" height="820" alt="image" src="https://github.com/user-attachments/assets/d5341016-daf5-4df2-afe4-8a7808da784e" /># Student Data Organizer
 ## Project Name
 Student Data Organizer – Student Record Management System
 ## Objective
